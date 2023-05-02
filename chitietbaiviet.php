@@ -85,9 +85,12 @@
             </div>
         </div>
     </div>
+<<<<<<< HEAD
     <div class="footer-copyright">
         <p>© 2021 Copyright Text</p>
     </div>
+=======
+>>>>>>> 1f972920477bcaaaf30ae9ee4e938cffb8674ed8
 </footer>
 <script src="assets/bootstrap/js/bootstrap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
