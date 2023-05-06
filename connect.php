@@ -1,5 +1,5 @@
 <?php
-$con = mysqli_connect("127.0.0.1","root","root","giaythethao");
+$con = mysqli_connect("127.0.0.1","root","","giaythethao2");
 
 // Check connection
 if (mysqli_connect_errno())
